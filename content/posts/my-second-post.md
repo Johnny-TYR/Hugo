@@ -1,7 +1,7 @@
 ---
 title: "My Second Post"
 date: 2023-05-26T10:54:13+08:00
-draft: true
+draft: false
 ---
 
 # TypeScript - Basics

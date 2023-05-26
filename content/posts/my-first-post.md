@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2023-05-26T10:19:02+08:00
-draft: true
+draft: false
 ---
 # Hi, I'm Johnny, a Vue Frontend Dev
  
